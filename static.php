@@ -16,7 +16,7 @@
 
  }
 
- $password = "abiola78";
+ $password = "mypass00";
  if(User::validatePass($password)){
      echo "<span style='color:green'>password is valid</span>";
  }
